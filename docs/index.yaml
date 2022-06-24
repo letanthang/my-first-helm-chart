@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-24T17:12:48.516296+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 9f7e87cc61a57d56e8ffce800037f620190cd7f809e8b43507c078b79f4d9bed
+    name: mychart
+    type: application
+    urls:
+    - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-24T17:12:48.514826+07:00"
