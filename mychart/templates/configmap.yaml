@@ -4,4 +4,4 @@ metadata:
   name: nginx-html-configmap
 data:
   myvalue: "Hello World"
-  drink: {{ .Values.htmlContent }}
+  drink: {{- with .Values.htmlContent }}
