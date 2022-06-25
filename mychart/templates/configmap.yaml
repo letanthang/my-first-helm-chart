@@ -5,3 +5,4 @@ metadata:
 data:
   myvalue: "Hello World"
   drink: {{- with .Values.htmlContent }}
+  
