@@ -3,4 +3,5 @@ kind: ConfigMap
 metadata:
   name: index-html-configmap
 data:
-  index.html: {{ .Values.htmlContent }}
+  index.html: |
+    {{ .Values.htmlContent }}
