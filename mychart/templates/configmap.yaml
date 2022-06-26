@@ -3,5 +3,10 @@ kind: ConfigMap
 metadata:
   name: index-html-configmap
 data:
+  mykey: {{ .Values.htmlContent }}
   index.html: |
-    {{ .Values.htmlContent }}
+    <html>
+    <h1>Welcome from Thang</h1>
+    </br>
+    <h1>Hi! This is a configmap Index file </h1>
+    </html
