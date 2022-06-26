@@ -10,3 +10,4 @@ data:
     </br>
     <h1>Hi! This is a configmap Index file </h1>
     </html
+  salad: {{ .Values.global.salad }}
