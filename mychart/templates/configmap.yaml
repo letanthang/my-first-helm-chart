@@ -1,8 +1,11 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: nginx-html-configmap
+  name: index-html-configmap
 data:
-  myvalue: "Hello World"
-  drink: {{ .Values.htmlContent }}
-  
+  index.html: |
+    <html>
+    <h1>Welcome from Thang</h1>
+    </br>
+    <h1>Hi! This is a configmap Index file </h1>
+    </html
