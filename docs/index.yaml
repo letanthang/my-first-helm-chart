@@ -3,7 +3,107 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-24T17:12:48.516296+07:00"
+    created: "2022-07-11T20:27:30.490052+07:00"
+    description: A Helm chart for Kubernetes
+    digest: ee70591d0cbe0aafbe8f94fc6e8a575f917d7f960333af96106a335adf2062cd
+    name: mychart
+    type: application
+    urls:
+    - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.10.tgz
+    version: 0.1.10
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-11T20:27:30.501062+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 74b0c2ea1c54ffa546354a0b28fed72bc43c51274ad73309edf9fc6e453b94a8
+    name: mychart
+    type: application
+    urls:
+    - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.9.tgz
+    version: 0.1.9
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-11T20:27:30.499715+07:00"
+    description: A Helm chart for Kubernetes
+    digest: acdfdbf19f754f0140df52a8416d78ffe95bf156d68c447a423b9f391e553e93
+    name: mychart
+    type: application
+    urls:
+    - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.8.tgz
+    version: 0.1.8
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-11T20:27:30.498384+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 98a323030c943b0eb53ce49ba620efcb9269af1e5c89745124077437670166f7
+    name: mychart
+    type: application
+    urls:
+    - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: 1.16.2
+    created: "2022-07-11T20:27:30.497144+07:00"
+    description: A Helm chart for Kubernetes
+    digest: e8f643d46c1e6e136100b92dc629b22ba3b478ab00b4325f06122ac46c855fff
+    name: mychart
+    type: application
+    urls:
+    - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: 1.16.2
+    created: "2022-07-11T20:27:30.495905+07:00"
+    description: A Helm chart for Kubernetes
+    digest: e97d41a49a584e0c861d8325a153e6304ef4936079af26c81ba2cfbc8ae502b2
+    name: mychart
+    type: application
+    urls:
+    - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 1.16.2
+    created: "2022-07-11T20:27:30.493929+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 17e61d6b31c325f9bc608f6c38e6bcad1693e0da19cfbe43e234487ebc9fefdb
+    name: mychart
+    type: application
+    urls:
+    - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.2
+    created: "2022-07-11T20:27:30.492627+07:00"
+    description: A Helm chart for Kubernetes
+    digest: e3ba751497d6a9c45e234eab98e6b8301aac2f542e3d4be7cd70606ce7e40826
+    name: mychart
+    type: application
+    urls:
+    - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.2
+    created: "2022-07-11T20:27:30.491349+07:00"
+    description: A Helm chart for Kubernetes
+    digest: c07b141359aeb67e532a95dc0c11affec6ebb7331cd7ae92123b6de8f42c1826
+    name: mychart
+    type: application
+    urls:
+    - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2022-07-11T20:27:30.487784+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 163adb090d7e318a165a8c970655edeb4139125d761d9613ea853d9a4840497a
+    name: mychart
+    type: application
+    urls:
+    - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-11T20:27:30.486348+07:00"
     description: A Helm chart for Kubernetes
     digest: 9f7e87cc61a57d56e8ffce800037f620190cd7f809e8b43507c078b79f4d9bed
     name: mychart
@@ -11,4 +111,4 @@ entries:
     urls:
     - https://letanthang.github.io/my-first-helm-chart/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-24T17:12:48.514826+07:00"
+generated: "2022-07-11T20:27:30.485254+07:00"
